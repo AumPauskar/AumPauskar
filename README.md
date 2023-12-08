@@ -21,3 +21,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aumpauskar&show_icons=true&locale=en" alt="aumpauskar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aumpauskar&" alt="aumpauskar" /></p>
+
+## My skills
+| What I can do ✅| What I can't do ❌|
+| --- | --- |
+| Python | Find a girlfriend |
+| C/C++ | Socialize |
+| HTML/CSS/JS | |
+| MERN | |
+| SQL | |
+| Elixir | |
+| ARM Assembly | |
+| Linux and shell scripting | |
+| Figma | |
+| Java | |
+| Android development with flutter | |
+| ML with pytorch | |
+| IOT with arduino and raspberry pi | |
+| Unreal | |
+| Firebase | |
+| PHP | |
